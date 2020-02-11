@@ -37,11 +37,11 @@
 
 * Classe personnage 
 * Classe vaisseau (hérite de la classe perssonage)
-  * # Attribut
+  * ### Attribut
     * Vie
     * Score
     
-  * # Méthodes 
+  * ### Méthodes 
     * Getters
       * Se déplacer a droite 
       * Se déplacer a gauche
@@ -53,9 +53,9 @@
       * Modifier le score
   
 * Classe ennemi (hérite de la classe perssonage)
-  * # Attribut
+  * ### Attribut
     Vie (force de tir a encaisser)
-  * # Méthodes 
+  * ### Méthodes 
     * Getters
     * Setters
       * Modifier la vie
