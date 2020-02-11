@@ -74,11 +74,11 @@
 
 5. Un ennemi a une force (vie) de _CINQ_ ou de _DIX_
 
-6. Lorsque un ennemi est touché par le vaisseau il perd cinq points de force lorsque sa force atteint zero il disparaît (mort)
+6. Lorsque un ennemi est touché par le vaisseau perd _CINQ POINTS_ de force lorsque sa force atteint _ZERO_ il _DISPARAIT_ (mort)
 
-7. Lorsque le vaisseau touche un ennemi son score est augmenté
+7. Lorsque le vaisseau touche un ennemi le score du vaisseau est _AUGMENTÉ_
 
-8. Lorsque le vaisseau est touché il perd une vie
+8. Lorsque le vaisseau est touché il _PERD UNE VIE_
 
 9. Lorsque le vaisseau n'as plus de vie c'est la _FIN DE LA PARTIE_
 
