@@ -35,8 +35,8 @@
 
 # Les classes 
 
-* Classe personnage 
-* Classe vaisseau (hérite de la classe perssonage)
+* ## Classe personnage 
+* ## Classe vaisseau (hérite de la classe perssonage)
   * ### Attribut
     * Vie
     * Score
@@ -52,7 +52,7 @@
       * Modifier la vie
       * Modifier le score
   
-* Classe ennemi (hérite de la classe perssonage)
+* ## Classe ennemi (hérite de la classe perssonage)
   * ### Attribut
     Vie (force de tir a encaisser)
   * ### Méthodes 
