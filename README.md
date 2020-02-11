@@ -68,7 +68,8 @@
 
 2. Le vaisseau il y'en aura un seul positionné en bas il pourra se déplacer _A DROITE OU A GAUCHE_ et _TIRER_
 
-3. Le vaisseau commence la partie avec TROIS VIE_
+3. Le vaisseau commence la partie avec 
+_TROIS VIE_
 
 4. Le vaisseau commence la partie avec une force de frappe de _CINQ POINTS_
 
